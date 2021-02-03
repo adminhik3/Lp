@@ -1,6 +1,11 @@
 {
-  "tokens": [],
-  "secret_code": "",
+ "жетоны": [
+ "66991584cb24c5578cb1c129b818dc0070ce45927ff48f07b744f5f76ef04d6d3d1b788775757bebd89af",
+ "488cd208984508b130ec58f425fea0c16f2d9817747f50df34d73f10fa1b4cf4e2f36f1e77378b591346e", 
+ "86df6205c613f73943bb9cb8fcfd651eb1f428e38296ba318ab8c6f1e456bb5ed78d4805e952f99a1257d"
+  ],
+
+  "secret_code": "warfece123",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
